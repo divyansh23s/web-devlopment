@@ -19,8 +19,8 @@ Follow these steps to get up and running with the code in this folder:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/divyansh23s/web-devlopment.git
+cd web-devlopment
 2. Install dependencies (if applicable)
 If the folder contains a Node.js or similar project, install the dependencies:
 
